@@ -1,0 +1,28 @@
+/* button {
+    margin-top: 30%;
+    margin-right: 40%;
+    height: 50%;
+
+} */
+* {
+    background-color: rgb(109, 183, 158);
+    /* display: flexbox; */
+}
+
+.conatiner {
+    width: 800px;
+    margin: 0 auto;
+}
+
+button {
+    background-color: rgb(222, 136, 136);
+    margin-top: 30px;
+    float: left;
+    height: 50px;
+}
+
+img {
+    float: left;
+    margin-right: 20px;
+    margin-left: 20px;
+}
